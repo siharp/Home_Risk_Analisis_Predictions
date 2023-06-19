@@ -1,4 +1,4 @@
-# Home_Risk Customer Analisys and Predictions
+# Home Credit Customer Risk Analisys and Predictions
 
 ## Intoductions
 
